@@ -55,16 +55,10 @@ Dynamic adjustment of signal timing
 Identification of peak and low traffic hours
 Graph showing how signal timing adapts over time
 
-**
-Project Structure**
-Traffic-Agent/
-│── main.py          # Main execution file
-│── model.py         # Learning agent logic
-│── analysis.py      # Analysis and visualization
-│── README.md        # Project documentation
-│── report.txt       # Detailed project report
-│── requirements.txt # Dependencies
-│── screenshots/     # Output images (optional)
+
+**Project Structure**
+
+<img width="540" height="232" alt="image" src="https://github.com/user-attachments/assets/c17fc52a-192d-4764-b641-758901788707" />
 
 **
 Learning Approach**
